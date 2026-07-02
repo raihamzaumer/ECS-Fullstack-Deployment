@@ -4,13 +4,19 @@
 
 ## 📸 Screenshots
 
-| Infrastructure | Login |
-|----------------|-------|
-| ![](Snapshots/Infra.png) | ![](Snapshots/login.png) |
+## 📸 Screenshots
 
-| Dashboard | GitHub Actions |
-|-----------|----------------|
-| ![](Snapshots/Dashboard.png) | ![](Snapshots/workflow.png) |
+### 🏗️ Infrastructure Architecture
+![Infrastructure](Snapshots/Infra.png)
+
+### 🔐 Login Page
+![Login](Snapshots/login.png)
+
+### 📊 Application Dashboard
+![Dashboard](Snapshots/Dashboard.png)
+
+### ⚙️ GitHub Actions Workflow
+![Workflow](Snapshots/workflow.png)
 
 **A fully automated, production-ready cloud infrastructure for a real-world full-stack application — built entirely with Terraform, deployed on AWS, following industry DevOps best practices.**
 
