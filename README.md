@@ -5,7 +5,7 @@
 ## 📸 Screenshots
 
 
-### 🏗️ Infrastructure Architecture
+### 🏗️ Terraform Infrastructure
 ![Infrastructure](SnapShots/Infra.png)
 
 ### 🔐 Login Page
@@ -19,7 +19,7 @@
 
 **A fully automated, production-ready cloud infrastructure for a real-world full-stack application — built entirely with Terraform, deployed on AWS, following industry DevOps best practices.**
 
-[🖥️ Frontend Repo](https://github.com/raihamzaumer/hope4all-frontend) · [⚙️ Backend Repo](https://github.com/raihamzaumer/hope4all-backend)
+[🖥️ Frontend Repo](https://github.com/raihamzaumer/Hope4All-Frontend) · [⚙️ Backend Repo](https://github.com/raihamzaumer/Hope4All-Backend)
 
 </div>
 
